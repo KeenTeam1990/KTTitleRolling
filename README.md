@@ -5,6 +5,7 @@
 ![项目结构图](https://github.com/KeenTeam1990/KTTitleRolling/blob/master/CDDTitleRolling/pic/11.jpg "效果图")
 
 实现方面，我利用UIView animateWithDuration结合CALayer的CATransform3D坐标变换做上下翻滚动画。
+
 #pragma mark - 标题滚动
 - (void)titleRolling{
     
